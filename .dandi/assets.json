@@ -5,7 +5,7 @@
 "blob":
 "50688b20-3a6a-4597-8d34-e6e301a191ac",
 "created":
-"2023-10-12T15:16:22.350520+00:00",
+"2023-10-12T15:16:22.350520Z",
 "metadata":
 {
 "@context":
@@ -83,7 +83,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:22.350537+00:00",
+"2023-10-12T15:16:22.350537Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230531h21m54s56/micr/sub-YinMPscMs1mm_ses-20230531h21m54s56_sample-ACERNADAPI_DAPI_stain-DAPI.tiff",
 "size":
@@ -95,7 +95,7 @@
 "blob":
 "22177953-f0ae-46d3-b4b4-eff0d606a959",
 "created":
-"2023-10-12T15:16:18.205045+00:00",
+"2023-10-12T15:16:18.205045Z",
 "metadata":
 {
 "@context":
@@ -173,7 +173,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:18.205075+00:00",
+"2023-10-12T15:16:18.205075Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230531h21m54s56/micr/sub-YinMPscMs1mm_ses-20230531h21m54s56_sample-ACERNAneun_NEUN_stain-NEUN.tiff",
 "size":
@@ -185,7 +185,7 @@
 "blob":
 "ec201078-9ac4-4b3c-9c68-0a6fa05bca1a",
 "created":
-"2023-10-12T15:16:17.259913+00:00",
+"2023-10-12T15:16:17.259913Z",
 "metadata":
 {
 "@context":
@@ -263,7 +263,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:17.259930+00:00",
+"2023-10-12T15:16:17.259930Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230531h21m54s56/micr/sub-YinMPscMs1mm_ses-20230531h21m54s56_sample-ACERNAvglut1_VGLUT1_stain-VGLUT1.tiff",
 "size":
@@ -275,7 +275,7 @@
 "blob":
 "47dbdfb6-08bd-46f6-a9d7-2fa718209e1c",
 "created":
-"2023-10-12T15:16:16.396303+00:00",
+"2023-10-12T15:16:16.396303Z",
 "metadata":
 {
 "@context":
@@ -353,7 +353,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:16.396321+00:00",
+"2023-10-12T15:16:16.396321Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230531h21m54s56/micr/sub-YinMPscMs1mm_ses-20230531h21m54s56_sample-ACERNAvglut2_VGLUT2_stain-VGLUT2.tiff",
 "size":
@@ -365,7 +365,7 @@
 "blob":
 "768f85ea-6272-4309-b544-5c2f25fead79",
 "created":
-"2023-10-12T15:16:45.428882+00:00",
+"2023-10-12T15:16:45.428882Z",
 "metadata":
 {
 "@context":
@@ -443,7 +443,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:45.428906+00:00",
+"2023-10-12T15:16:45.428906Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230601h01m54s54/micr/sub-YinMPscMs1mm_ses-20230601h01m54s54_sample-ACERNApdp1_PDP1_stain-PDP1.tiff",
 "size":
@@ -455,7 +455,7 @@
 "blob":
 "2fbaa481-9298-448f-9cdc-71dd4fdacd33",
 "created":
-"2023-10-12T15:16:41.483106+00:00",
+"2023-10-12T15:16:41.483106Z",
 "metadata":
 {
 "@context":
@@ -533,7 +533,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:41.483123+00:00",
+"2023-10-12T15:16:41.483123Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230602h12m46s00/micr/sub-YinMPscMs1mm_ses-20230602h12m46s00_sample-ACERNAcnp_CNP_stain-CNP.tiff",
 "size":
@@ -545,7 +545,7 @@
 "blob":
 "5e9b7e9a-0415-4342-8a58-74160831dbb5",
 "created":
-"2023-10-12T15:16:44.031993+00:00",
+"2023-10-12T15:16:44.031993Z",
 "metadata":
 {
 "@context":
@@ -623,7 +623,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:44.032014+00:00",
+"2023-10-12T15:16:44.032014Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230602h12m46s00/micr/sub-YinMPscMs1mm_ses-20230602h12m46s00_sample-ACERNActgf_CTGF_stain-CTGF.tiff",
 "size":
@@ -635,7 +635,7 @@
 "blob":
 "e8bccacc-dd84-484b-bef6-6d8ada0a1e8c",
 "created":
-"2023-10-12T15:16:43.087106+00:00",
+"2023-10-12T15:16:43.087106Z",
 "metadata":
 {
 "@context":
@@ -713,7 +713,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:43.087128+00:00",
+"2023-10-12T15:16:43.087128Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230603h09m37s08/micr/sub-YinMPscMs1mm_ses-20230603h09m37s08_sample-ACERNAcar8_CAR8_stain-CAR8.tiff",
 "size":
@@ -725,7 +725,7 @@
 "blob":
 "7be86214-bd88-43eb-a22f-60e640f05d44",
 "created":
-"2023-10-12T15:16:41.171840+00:00",
+"2023-10-12T15:16:41.171840Z",
 "metadata":
 {
 "@context":
@@ -803,7 +803,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:41.171863+00:00",
+"2023-10-12T15:16:41.171863Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230603h23m01s08/micr/sub-YinMPscMs1mm_ses-20230603h23m01s08_sample-ACERNAtox_TOX_stain-TOX.tiff",
 "size":
@@ -815,7 +815,7 @@
 "blob":
 "a50d9348-f9f4-421b-bbb8-9a6ac3856c63",
 "created":
-"2023-10-12T15:16:49.700696+00:00",
+"2023-10-12T15:16:49.700696Z",
 "metadata":
 {
 "@context":
@@ -893,7 +893,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:49.700720+00:00",
+"2023-10-12T15:16:49.700720Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230604h07m06s16/micr/sub-YinMPscMs1mm_ses-20230604h07m06s16_sample-ACERNAhomer_HOMER1_stain-HOMER1.tiff",
 "size":
@@ -905,7 +905,7 @@
 "blob":
 "678e4aad-9351-49c8-9448-bc75dbcaa5ae",
 "created":
-"2023-10-12T15:16:51.554528+00:00",
+"2023-10-12T15:16:51.554528Z",
 "metadata":
 {
 "@context":
@@ -983,7 +983,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:51.554549+00:00",
+"2023-10-12T15:16:51.554549Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230604h11m09s34/micr/sub-YinMPscMs1mm_ses-20230604h11m09s34_sample-ACERNAslc6a1_SLC6A1_stain-SLC6A1.tiff",
 "size":
@@ -995,7 +995,7 @@
 "blob":
 "4c3e6f4c-d757-47ea-8ca3-c5480eaf66a2",
 "created":
-"2023-10-12T15:16:51.053399+00:00",
+"2023-10-12T15:16:51.053399Z",
 "metadata":
 {
 "@context":
@@ -1073,7 +1073,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:51.053438+00:00",
+"2023-10-12T15:16:51.053438Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230605h21m25s56/micr/sub-YinMPscMs1mm_ses-20230605h21m25s56_sample-ACERNApolyA_POLYA_stain-POLYA.tiff",
 "size":
@@ -1085,7 +1085,7 @@
 "blob":
 "062d5fbe-658d-4e3f-ba0d-49d8c510711a",
 "created":
-"2023-10-12T15:16:50.902625+00:00",
+"2023-10-12T15:16:50.902625Z",
 "metadata":
 {
 "@context":
@@ -1163,7 +1163,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:50.902642+00:00",
+"2023-10-12T15:16:50.902642Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230608h21m39s10/micr/sub-YinMPscMs1mm_ses-20230608h21m39s10_sample-ACEProteinGFAP_GFAP_stain-GFAP.tiff",
 "size":
@@ -1175,7 +1175,7 @@
 "blob":
 "f39bc2f3-e4ff-495f-9067-bd20afa80625",
 "created":
-"2023-10-12T15:16:59.733532+00:00",
+"2023-10-12T15:16:59.733532Z",
 "metadata":
 {
 "@context":
@@ -1253,7 +1253,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:59.733550+00:00",
+"2023-10-12T15:16:59.733550Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230608h21m39s10/micr/sub-YinMPscMs1mm_ses-20230608h21m39s10_sample-ACEProteinNeuN_NEUN_stain-NEUN.tiff",
 "size":
@@ -1265,7 +1265,7 @@
 "blob":
 "ff5fae85-34eb-4fa8-90ff-33fe845318f3",
 "created":
-"2023-10-12T15:16:58.118340+00:00",
+"2023-10-12T15:16:58.118340Z",
 "metadata":
 {
 "@context":
@@ -1343,7 +1343,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:58.118360+00:00",
+"2023-10-12T15:16:58.118360Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230609h03m36s04/micr/sub-YinMPscMs1mm_ses-20230609h03m36s04_sample-ACEProteinIba1_IBA1_stain-IBA1.tiff",
 "size":
@@ -1355,7 +1355,7 @@
 "blob":
 "c4065e51-3ae3-4c60-af36-e974eef25364",
 "created":
-"2023-10-12T15:17:00.357269+00:00",
+"2023-10-12T15:17:00.357269Z",
 "metadata":
 {
 "@context":
@@ -1433,7 +1433,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:17:00.357288+00:00",
+"2023-10-12T15:17:00.357288Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230609h08m22s38/micr/sub-YinMPscMs1mm_ses-20230609h08m22s38_sample-ACEProteinTH_TH_stain-TH.tiff",
 "size":
@@ -1445,7 +1445,7 @@
 "blob":
 "c43addfd-4316-42d2-8c73-c516b05b38f7",
 "created":
-"2023-10-12T15:16:59.503513+00:00",
+"2023-10-12T15:16:59.503513Z",
 "metadata":
 {
 "@context":
@@ -1523,7 +1523,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:16:59.503561+00:00",
+"2023-10-12T15:16:59.503561Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230609h23m34s18/micr/sub-YinMPscMs1mm_ses-20230609h23m34s18_sample-ACEProteinMBP_MBP_stain-MBP.tiff",
 "size":
@@ -1535,7 +1535,7 @@
 "blob":
 "7b3a2dc2-9857-4320-856a-0de008da6357",
 "created":
-"2023-10-12T15:17:07.047989+00:00",
+"2023-10-12T15:17:07.047989Z",
 "metadata":
 {
 "@context":
@@ -1613,7 +1613,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:17:07.048008+00:00",
+"2023-10-12T15:17:07.048008Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230609h23m34s18/micr/sub-YinMPscMs1mm_ses-20230609h23m34s18_sample-ACEProteinNBRN2_BRN2_stain-BRN2.tiff",
 "size":
@@ -1625,7 +1625,7 @@
 "blob":
 "dc0a0575-0be3-4f3c-90a7-744e2079e35b",
 "created":
-"2023-10-12T15:17:03.879869+00:00",
+"2023-10-12T15:17:03.879869Z",
 "metadata":
 {
 "@context":
@@ -1703,7 +1703,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:17:03.879885+00:00",
+"2023-10-12T15:17:03.879885Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230610h02m36s22/micr/sub-YinMPscMs1mm_ses-20230610h02m36s22_sample-ACEProteinVIM_VIM_stain-VIM.tiff",
 "size":
@@ -1715,7 +1715,7 @@
 "blob":
 "a34b2999-b2d3-41a7-a78a-f16f1498b158",
 "created":
-"2023-10-12T15:17:09.008572+00:00",
+"2023-10-12T15:17:09.008572Z",
 "metadata":
 {
 "@context":
@@ -1793,7 +1793,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:17:09.008678+00:00",
+"2023-10-12T15:17:09.008678Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230610h05m38s48/micr/sub-YinMPscMs1mm_ses-20230610h05m38s48_sample-ACEProteinSMI_SMI_stain-SMI.tiff",
 "size":
@@ -1805,7 +1805,7 @@
 "blob":
 "d40202e6-41d4-421f-bfa0-62d7412a01e2",
 "created":
-"2023-10-12T15:17:08.013540+00:00",
+"2023-10-12T15:17:08.013540Z",
 "metadata":
 {
 "@context":
@@ -1883,7 +1883,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:17:08.013561+00:00",
+"2023-10-12T15:17:08.013561Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230610h13m26s14/micr/sub-YinMPscMs1mm_ses-20230610h13m26s14_sample-ACEProteinNFM_NFM_stain-NFM.tiff",
 "size":
@@ -1895,7 +1895,7 @@
 "blob":
 "57f73139-013c-4ebb-918e-ceda94d26df1",
 "created":
-"2023-10-12T15:17:13.015435+00:00",
+"2023-10-12T15:17:13.015435Z",
 "metadata":
 {
 "@context":
@@ -1973,7 +1973,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:17:13.015454+00:00",
+"2023-10-12T15:17:13.015454Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230610h19m40s46/micr/sub-YinMPscMs1mm_ses-20230610h19m40s46_sample-ACEProteinCalretinin_CALRETININ_stain-CALRETININ.tiff",
 "size":
@@ -1985,7 +1985,7 @@
 "blob":
 "2c6db665-e62c-4d98-9e0f-135cc2a3eec8",
 "created":
-"2023-10-12T15:17:09.806812+00:00",
+"2023-10-12T15:17:09.806812Z",
 "metadata":
 {
 "@context":
@@ -2063,7 +2063,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:17:09.806832+00:00",
+"2023-10-12T15:17:09.806832Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230611h01m22s54/micr/sub-YinMPscMs1mm_ses-20230611h01m22s54_sample-ACEProteinMAP2_MAP2_stain-MAP2.tiff",
 "size":
@@ -2075,7 +2075,7 @@
 "blob":
 "f6dff890-0414-431f-bd44-c40eeb441ffb",
 "created":
-"2023-10-12T15:17:13.730254+00:00",
+"2023-10-12T15:17:13.730254Z",
 "metadata":
 {
 "@context":
@@ -2153,7 +2153,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:17:13.730279+00:00",
+"2023-10-12T15:17:13.730279Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230611h01m56s56/micr/sub-YinMPscMs1mm_ses-20230611h01m56s56_sample-ACEProteinSox10_SOX10_stain-SOX10.tiff",
 "size":
@@ -2165,7 +2165,7 @@
 "blob":
 "b701f632-eadd-40cd-8939-39fc2d6302a9",
 "created":
-"2023-10-12T15:17:14.341582+00:00",
+"2023-10-12T15:17:14.341582Z",
 "metadata":
 {
 "@context":
@@ -2243,7 +2243,7 @@
 ]
 },
 "modified":
-"2023-10-12T15:17:14.341599+00:00",
+"2023-10-12T15:17:14.341599Z",
 "path":
 "sub-YinMPscMs1mm/ses-20230611h22m30s24/micr/sub-YinMPscMs1mm_ses-20230611h22m30s24_sample-ACEProteinAQP4_AQP4_stain-AQP4.tiff",
 "size":
